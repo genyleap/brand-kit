@@ -2,6 +2,8 @@
 
 Welcome to the official Genyleap Brand Kit! This repository is designed to maintain consistency and elevate the identity of Genyleap, our core company. Our original logo embodies our foundation and vision, while the DNA-inspired logo, evolved from it, serves as the token of the Genyleap ecosystem. This double-helix design symbolizes innovation, growth, and a connected community within our ecosystem.
 
+![genykit](https://github.com/user-attachments/assets/2d3256c6-c6b0-41d7-b1f6-92a23ee5069d)
+
 ## What’s Included
 - **Logos**: 
   - Genyleap original logo files: [genyleap-dark.svg](https://github.com/genyleap/brand-kit/blob/main/assets/genyleap-dark.svg), [genyleap-light.svg](https://github.com/genyleap/brand-kit/blob/main/assets/genyleap-light.svg).
