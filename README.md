@@ -4,12 +4,13 @@ Welcome to the official Genyleap Brand Kit! This repository is designed to maint
 
 ## What’s Included
 - **Logos**: 
-  - High-quality files of the Genyleap original logo and the DNA-inspired ecosystem token logo (available in `assets/`).
+  - Genyleap original logo files: [genyleap-dark.png](https://github.com/genyleap/brand-kit/blob/main/assets/genyleap-dark.png), [genyleap-light.svg](https://github.com/genyleap/brand-kit/blob/main/assets/genyleap-light.svg), [genyleap-dark.svg](https://github.com/genyleap/brand-kit/blob/main/assets/genyleap-dark.svg).
+  - DNA-inspired ecosystem token logo files: [token-dark.svg](https://github.com/genyleap/brand-kit/blob/main/assets/token-dark.svg), [token-light.svg](https://github.com/genyleap/brand-kit/blob/main/assets/token-light.svg), [token-logo.svg](https://github.com/genyleap/brand-kit/blob/main/assets/token-logo.svg).
 - **Color Palette**: Official brand colors (e.g., green tones) for cohesive design.
-- **Typography**: Recommended fonts and usage guidelines (see `logo-guidelines.md`).
+- **Typography**: Recommended fonts and usage guidelines (see [logo-guidelines.md](https://github.com/genyleap/brand-kit/blob/main/logo-guidelines.md)).
 - **Guidelines**: Best practices for brand representation.
 
 ## Usage
-Refer to [logo-guidelines.md](#) for detailed instructions on using the brand assets.
+Refer to [logo-guidelines.md](https://github.com/genyleap/brand-kit/blob/main/logo-guidelines.md) for detailed instructions on using the brand assets.
 
-[Download Assets](#assets) | [Guidelines](#logo-guidelines)
+[Download Assets](#assets) | [Guidelines](https://github.com/genyleap/brand-kit/blob/main/logo-guidelines.md)
